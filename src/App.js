@@ -1,6 +1,6 @@
 function App() {
   return (
-    <div>
+    <div className="todo-list">
       <h1>TO DO LIST</h1>
     </div>
   );
