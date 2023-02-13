@@ -1,12 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <img src="pratap_live.jpeg" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>README</b></h3>
-
+  <img src="pratap_live.jpeg" alt="logo" width="auto"  height="auto" />
+  <h2><b>README</b></h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
